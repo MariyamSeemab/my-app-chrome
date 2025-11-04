@@ -9,7 +9,7 @@ public class Exp6 {
     {
         System.setProperty(
             "webdriver.chrome.driver",
-            "C:\\Users\\TAUHEED\\Desktop\\chromedriver-win64\\chromedriver.exe");
+            ""C:\Users\Usmani\Downloads\chromedriver-win32\chromedriver.exe"");
         // Instantiate a ChromeDriver class.
         WebDriver driver = new ChromeDriver();
 
